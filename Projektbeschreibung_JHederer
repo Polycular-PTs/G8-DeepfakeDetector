@@ -1,0 +1,15 @@
+Das Projekt ist ein interaktives Quiz, bei dem Nutzer zwischen echten Fotografien und KI-generierten Bildern unterscheiden müssen. Ziel ist es, die Erkennungskompetenz für digitale Fälschungen zu trainieren und ein Bewusstsein für die Qualität moderner KI-Medien zu schaffen. Das Spiel wertet die Entscheidungen aus und präsentiert am Ende eine Zusammenfassung der erreichten Punkte.
+
+Bedienungsanleitung
+
+Die Steuerung erfolgt über Mausklicks oder Touch-Eingaben auf der Benutzeroberfläche. Der Nutzer betrachtet ein Bild und trifft seine Wahl über die Buttons Real oder Fake. Nach jeder Entscheidung erscheint eine Erklärungsebene mit Hintergrundinformationen zum jeweiligen Bild. Über eine Weiter-Schaltfläche wird das nächste von insgesamt 18 zufällig angeordneten Bildern geladen. Nach Abschluss aller Runden wird das Endergebnis in der Resultat-Szene angezeigt.
+
+
+
+/Users/juliushederer/Desktop/Bildschirmfoto 2026-01-14 um 12.26.28.png
+(Screenshot)
+
+Unity Version: 2022.3.9f1
+Programmiersprache: C#
+Betriebssystem: MacOs und Windows 
+Zielplattform des Projekts: Android
